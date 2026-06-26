@@ -24,6 +24,7 @@ Python solutions to LeetCode problems covering Arrays, Strings, Linked Lists, Tr
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kunjika7507bca25ai-del/leet.dsa-with-python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/kunjika7507bca25ai-del/leet.dsa-with-python/tree/master/0015-3sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,12 @@ Python solutions to LeetCode problems covering Arrays, Strings, Linked Lists, Tr
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kunjika7507bca25ai-del/leet.dsa-with-python/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kunjika7507bca25ai-del/leet.dsa-with-python/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kunjika7507bca25ai-del/leet.dsa-with-python/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
