@@ -11,6 +11,7 @@ Python solutions to LeetCode problems covering Arrays, Strings, Linked Lists, Tr
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kunjika7507bca25ai-del/leet.dsa-with-python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/kunjika7507bca25ai-del/leet.dsa-with-python/tree/master/0006-zigzag-conversion) |
 ## Sliding Window
 |  |
 | ------- |
